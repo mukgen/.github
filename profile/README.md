@@ -1,4 +1,4 @@
-<img src="mukgen_background.png" width="80%" height="80%">
+<img src="mukgen_background.png" width="100%" height="100%">
 
 ## 먹젠 - MUKGEN?
 ### "먹젠?" 의 탄생이유
