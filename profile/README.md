@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZp2gxCx8kfFVl8tSK_j4v_9mirKWStyPT0A&usqp=CAU" width="80%" height="80%">
+<img src="mukgen_background.png" width="80%" height="80%">
 
 ## 먹젠 - MUKGEN?
 ### "먹젠?" 의 탄생이유
