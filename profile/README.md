@@ -1,4 +1,5 @@
-<img src="mukgen_background.png" width="100%" height="100%">
+
+![Mukgen Project Main](https://github.com/mukgen/.github/assets/108796235/57f73e54-4014-463f-a0d6-ceae56f7378f)
 
 ## 먹젠 - MUKGEN?
 ### "먹젠?" 의 탄생이유
